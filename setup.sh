@@ -196,7 +196,6 @@ Port 443" >> /etc/ssh/sshd_config
   mv changedate.sh /bin/changedate && chmod a+x /bin/changedate
   mv changelimit.sh /bin/changelimit && chmod a+x /bin/changelimit
   mv changepassword.sh /bin/changepassword && chmod a+x /bin/changepassword
-  mv checkusers.sh /bin/checkusers && chmod a+x /bin/checkusers
   mv createuser.sh /bin/createuser && chmod a+x /bin/createuser
   mv limiter-menu.sh /bin/limiter-menu && chmod a+x /bin/limiter-menu
   mv limiter-messages.sh /bin/limiter-messages && chmod a+x /bin/limiter-messages
@@ -306,7 +305,6 @@ Port 443" >> /etc/ssh/sshd_config
   mv changedate.sh /bin/changedate && chmod a+x /bin/changedate
   mv changelimit.sh /bin/changelimit && chmod a+x /bin/changelimit
   mv changepassword.sh /bin/changepassword && chmod a+x /bin/changepassword
-  mv checkusers.sh /bin/checkusers && chmod a+x /bin/checkusers
   mv createuser.sh /bin/createuser && chmod a+x /bin/createuser
   mv limiter-menu.sh /bin/limiter-menu && chmod a+x /bin/limiter-menu
   mv limiter-messages.sh /bin/limiter-messages && chmod a+x /bin/limiter-messages
