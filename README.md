@@ -4,10 +4,8 @@
 
 # Sistemas Operacionais testados: Debian 8, Ubuntu 14 e Ubuntu 16.
 
-# Em breve uma documentação completa!
-
 # Instalação:
 
 > wget --no-check-certificate https://raw.githubusercontent.com/AnonymousLinux/SSHPacket/master/setup.sh && bash setup.sh
 
-# Última atualização: 26/08/2017 às 17:22
+# Última atualização: 12/09/2017 às 14:25
